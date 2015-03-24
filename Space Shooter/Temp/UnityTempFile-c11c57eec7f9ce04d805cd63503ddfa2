@@ -42,6 +42,7 @@
 -define:ENABLE_PROFILER
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_WIN
+Assets/DestroyByContact.cs
 Assets/Done/Done_Scripts/Done_BGScroller.cs
 Assets/Done/Done_Scripts/Done_DestroyByBoundary.cs
 Assets/Done/Done_Scripts/Done_DestroyByContact.cs
@@ -52,5 +53,7 @@ Assets/Done/Done_Scripts/Done_Mover.cs
 Assets/Done/Done_Scripts/Done_PlayerController.cs
 Assets/Done/Done_Scripts/Done_RandomRotator.cs
 Assets/Done/Done_Scripts/Done_WeaponController.cs
+Assets/Scripts/BoundaryDestroy.cs
 Assets/Scripts/Mover.cs
 Assets/Scripts/PlayerController.cs
+Assets/Scripts/RandomRotator.cs
